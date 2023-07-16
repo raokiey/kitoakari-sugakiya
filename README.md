@@ -1,5 +1,9 @@
 # 【非公式】鬼頭明里のスガキヤだがや！ コラボ店舗マップ
 鬼頭明里さんとスガキヤさんのコラボ企画である「[鬼頭明里のスガキヤだがや！](https://sugakiya-campaign.net/sugakiyadagaya/)」の対象店舗を個人が地図に可視化したものです。  
+## アプリ
+[こちら](https://kitoakari-sugakiya-mymap.streamlit.app/)から閲覧することができます。
+
+https://github.com/raokiey/kitoakari-sugakiya/assets/56877037/1963fcf9-e5d6-4320-860d-372a90dbb4da
 
 ## 仕組み
 1. コラボ店舗である253店舗の情報を頑張ってCSV形式でまとめる  
